@@ -1,11 +1,11 @@
-# greetings, traveler!🌷
+# greetings, travelers!🌷
 
 <img src="bus.gif" width="100%">
 
-"turning caffeine into code and stardust 💫"
+  "turning caffeine into code and stardust 💫"
 
 ---
 
-☁️ current quest: python.  ~~~ 🎧 vibing to: phonk, rock, EDM, RnB.
+☁️ current quest: python. ~ 🎧 vibing to: phonk, rock, EDM, RnB.
 
 ---
