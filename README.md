@@ -1,6 +1,6 @@
 # greetings, travelers!🌷
 
-<img src="https://github.com/Dalivieaa/Dalivieaa/blob/main/bus.gif?raw=true" width="100%">
+<img src="https://github.com/user-attachments/assets/70f95709-039a-4f6f-a82f-0e9d2ebd79d2" width="100%">
 
   "turning caffeine into code and stardust 💫"
 
