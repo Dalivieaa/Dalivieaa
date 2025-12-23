@@ -2,7 +2,7 @@
 
 <img src="bus.gif" width="100%">
 
-> "turning caffeine into code and stardust 💫"
+"turning caffeine into code and stardust 💫"
 
 ---
 
