@@ -12,16 +12,4 @@
 
 #### 🌐 skills
  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-
- #### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dalivieaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dalivieaa&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalivieaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dalivieaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-#### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dalivieaa&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=Dalivieaa&icon=7&color=10)](https://visitcount.itsvg.in)
+ 
