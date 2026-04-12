@@ -1,4 +1,4 @@
-# greetings, travelers!🌷
+<img width="1322" height="316" alt="image" src="https://github.com/user-attachments/assets/726ea6e7-2b34-43aa-b6a4-a06d441655d1" /># greetings, travelers!🌷
 
 <img src="https://github.com/user-attachments/assets/70f95709-039a-4f6f-a82f-0e9d2ebd79d2" width="100%">
 
@@ -9,7 +9,7 @@
 #### 💻 language
 #### ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-#### skills
+#### 🌐 skills
  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
 #### my github stats
@@ -25,7 +25,4 @@
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dalivieaa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=Dalivieaa&icon=7&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
