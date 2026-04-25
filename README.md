@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/70f95709-039a-4f6f-a82f-0e9d2ebd79d2" width="100%">
 
 * "turning caffeine into code and stardust 💫"
-* 🎧 vibing to: Phonk, Hip-Hop EDM, RnB.
+* 🎧 vibing to: Phonk, Hip-Hop, EDM, RnB.
 ---
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31abts7hbruwsv2uz77xu4brs7oe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=d4c3e9&interchange=true&profanity=false&bar_color=dda7ec&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31abts7hbruwsv2uz77xu4brs7oe&redirect=true)
 #### 💻 language and skills 
