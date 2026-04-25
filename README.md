@@ -6,11 +6,8 @@
 * 🎧 vibing to: phonk, EDM, RnB.
 
 ---
-#### 💻 language
-#### ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-#### 🌐 skills
- ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+#### 💻 language and skills 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31abts7hbruwsv2uz77xu4brs7oe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=d4c3e9&interchange=true&profanity=false&bar_color=dda7ec&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31abts7hbruwsv2uz77xu4brs7oe&redirect=true)
 
