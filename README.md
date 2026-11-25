@@ -1,7 +1,7 @@
 # greetings, travelers!🌷
 <img src="https://github.com/user-attachments/assets/70f95709-039a-4f6f-a82f-0e9d2ebd79d2" width="100%">
 
-* 💫 turning into code and stardust one commit at a time
+* 💫 turning code into stardust one commit at a time
 * 🎧 vibing to the weeknd - is there someone else?
 ---
 
